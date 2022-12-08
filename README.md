@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @songchez
+- 👋 Hi, I’m Sanchez
 - 👀 I’m interested in World
 - 🌱 I’m currently learning ...React Js, Web
 - 💞️ I’m looking to collaborate on ...
