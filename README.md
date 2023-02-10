@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanchez
 - 👀 I’m interested in World
-- 🌱 I’m currently learning ...React Js, Web
+- 🌱 I’m currently learning ...Nextjs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... tama4840@gmail.com
 
