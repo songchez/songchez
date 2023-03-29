@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanchez에요. 갈데없는 비전공자 신입이에요 하하
+- 👋 Hi, I’m Sanchez에요. 
 - 👀 I’m interested in World
 - 🌱 I’m currently learning ...Nextjs
 - 💞️ I’m looking to collaborate on ...
