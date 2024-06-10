@@ -1,8 +1,5 @@
-- 👋 Hi, I’m Sanchez에요. 
-- 👀 I’m interested in World
-- 🌱 I’m currently learning ...Nextjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... tama4840@gmail.com
+📫 E-mail : tama4840@gmail.com
+🏠 Home : Incheon, Korea 대한민국.
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/songchez"/>
