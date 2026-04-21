@@ -1,0 +1,25 @@
+name: Update Space Shooter Game
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 자정 UTC에 실행
+  workflow_dispatch: # 수동 실행 버튼 활성화
+
+permissions:
+  contents: write
+
+jobs:
+  update-game:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # 이 설정을 반드시 포함해야 합니다.
+
+      - uses: czl9707/gh-space-shooter@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # 생성될 파일 이름 및 경로 설정 (gif 또는 webp)
+          output-path: 'gh-space-shooter.gif' 
+          # 잔디를 공격하는 패턴 (column, row, random 중 택 1)
+          strategy: 'random'
