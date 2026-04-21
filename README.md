@@ -23,12 +23,19 @@ I'm always down to chat about:
 * **Infra & Desktop:** ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 * **Automation:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-# Hermes Solution
-
-2025.05.08 ~ 
-
 ---
 *P.S. The first round of all my code reviews is handled by my lead reviewer: my cat, Hobbang. 🐾*
+
+---
+# Experience
+
+## Hermes Solution. Research Engineer.
+2025.05.08 ~ 
+
+
+
+### 👾 GitHub Space Shooter
+![GitHub Space Shooter](./gh-space-shooter.gif)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/songchez" alt="GitAnimals" />
