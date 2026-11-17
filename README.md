@@ -36,7 +36,3 @@ I'm always down to chat about:
 
 ### 👾 GitHub Space Shooter
 ![GitHub Space Shooter](./gh-space-shooter.gif)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/songchez" alt="GitAnimals" />
-</a>
